@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21010" start="node29" appversion="7.1.11" hassounds="1">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:11" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node1" altitude="897.60" copyright="" heading="0" title="Entrada" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node5}" target="" pan="-353.15" title="Sala" tilt="-2.12"/>
+      <hotspot description="" skinid="ht_node" id="Point02" url="{node2}" target="" pan="-247.98" title="Cozinha" tilt="-5.54"/>
+      <hotspot id="Point03" url="{node29}" distance="5866.63" tilt="1.55" skinid="ht_node" target="" pan="-14.09" description="" title="Prédio"/>
+      <hotspot description="" skinid="ht_node" id="Point04" url="{node6}" target="" pan="-321.83" title="Corredor" tilt="-3.59"/>
+      <hotspot description="" skinid="ht_node" id="Point05" url="{node4}" target="" pan="-272.46" title="Lavanderia" tilt="-0.03"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:12" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node2" altitude="897.60" copyright="" heading="0" title="Cozinha" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node4}" target="" pan="-295.63" title="Lavanderia" tilt="-4"/>
+      <hotspot description="" skinid="ht_node" id="Point02" url="{node1}" target="" pan="-116.96" title="Entrada" tilt="0.28"/>
+      <hotspot description="" skinid="ht_node" id="Point03" url="{node5}" target="" pan="-44.55" title="Sala" tilt="-1.78"/>
+      <hotspot description="" skinid="ht_node" id="Point04" url="{node6}" target="" pan="-14.49" title="Corredor" tilt="-1.89"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:16" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node4" altitude="897.60" copyright="" heading="0" title="Lavanderia" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node2}" target="" pan="-201.14" title="Cozinha" tilt="-2.09"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:17" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node5" altitude="897.60" copyright="" heading="0" title="Sala" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node1}" target="" pan="-226.37" title="Entrada" tilt="-2.75"/>
+      <hotspot description="" skinid="ht_node" id="Point02" url="{node2}" target="" pan="-249.07" title="Cozinha" tilt="-3.83"/>
+      <hotspot description="" skinid="ht_node" id="Point03" url="{node6}" target="" pan="-298.52" title="Corredor" tilt="-4.07"/>
+      <hotspot id="Point04" url="{node29}" distance="5866.63" tilt="6.82" skinid="ht_node" target="" pan="-88.68" description="" title="Prédio"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:18" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node6" altitude="897.60" copyright="" heading="0" title="Corredor" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node5}" target="" pan="-161.35" title="Sala" tilt="-4.91"/>
+      <hotspot description="" skinid="ht_node" id="Point02" url="{node1}" target="" pan="-228.85" title="Entrada" tilt="-2.77"/>
+      <hotspot description="" skinid="ht_node" id="Point03" url="{node7}" target="" pan="-287.43" title="Banheiro" tilt="-5.61"/>
+      <hotspot description="" skinid="ht_node" id="Point04" url="{node8}" target="" pan="-81.12" title="Quarto solteiro" tilt="-3.11"/>
+      <hotspot description="" skinid="ht_node" id="Point05" url="{node9}" target="" pan="-4.27" title="Quarto casal" tilt="-3.69"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:20" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node7" altitude="897.60" copyright="" heading="0" title="Banheiro" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node6}" target="" pan="-132.6" title="Corredor" tilt="-4.55"/>
+      <hotspot description="" skinid="ht_node" id="Point02" url="{node8}" target="" pan="-115.91" title="Quarto solteiro" tilt="-3.42"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:21" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node8" altitude="897.60" copyright="" heading="0" title="Quarto solteiro" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node6}" target="" pan="-237.86" title="Corredor" tilt="-4.17"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:22" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node9" altitude="897.60" copyright="" heading="0" title="Quarto casal" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node6}" target="" pan="-167.87" title="Corredor" tilt="-3.71"/>
+      <hotspot description="" skinid="ht_node" id="Point02" url="{node10}" target="" pan="-266.38" title="Suíte casal" tilt="-2.15"/>
+      <hotspot description="" skinid="ht_node" id="Point03" url="{node11}" target="" pan="-70.7" title="Quarto casal 1" tilt="-3.68"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:23" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node10" altitude="897.60" copyright="" heading="0" title="Suíte casal" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node9}" target="" pan="-121.32" title="Quarto casal" tilt="-1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2976" height="2976" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2976" height="2976" preload="0"/>
+      <level predecode="0" width="1488" height="1488" preload="0"/>
+      <level predecode="0" width="744" height="744" preload="0"/>
+      <level predecode="1" width="372" height="372" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="-40.844278" customnodeid="" datetime="14/08/25 16:25" tags="JPEG|Apartamento" latitude="-14.893722" info="" source="" comment="" nodeid="node11" altitude="897.60" copyright="" heading="0" title="Quarto casal 1" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" id="Point01" url="{node9}" target="" pan="-263.26" title="Quarto casal" tilt="-3.57"/>
+      <hotspot description="" skinid="ht_node" id="Point02" url="{node10}" target="" pan="-276.76" title="Suíte casal" tilt="-4.05"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-8.84" tilt="2.85"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802481" customnodeid="" datetime="14/08/25 15:05" tags="Drone|Torre1|Final1-4" latitude="-14.859787" info="" source="" comment="" nodeid="node22" altitude="906.45" copyright="" heading="0" title="2 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-8.84" tilt="2.85"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802479" customnodeid="" datetime="14/08/25 15:06" tags="Drone|Torre1|Final1-4" latitude="-14.859792" info="" source="" comment="" nodeid="node23" altitude="909.45" copyright="" heading="0" title="3 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-8.84" tilt="2.85"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802482" customnodeid="" datetime="14/08/25 15:07" tags="Drone|Torre1|Final1-4" latitude="-14.859791" info="" source="" comment="" nodeid="node24" altitude="912.45" copyright="" heading="0" title="4 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-8.84" tilt="2.85"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802485" customnodeid="" datetime="14/08/25 15:08" tags="Drone|Torre1|Final1-4" latitude="-14.859789" info="" source="" comment="" nodeid="node25" altitude="915.15" copyright="" heading="0" title="5 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-8.84" tilt="2.85"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802483" customnodeid="" datetime="14/08/25 15:10" tags="Drone|Torre1|Final1-4" latitude="-14.859789" info="" source="" comment="" nodeid="node26" altitude="917.75" copyright="" heading="0" title="6 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-8.84" tilt="2.85"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802480" customnodeid="" datetime="14/08/25 15:11" tags="Drone|Torre1|Final1-4" latitude="-14.859785" info="" source="" comment="" nodeid="node27" altitude="920.95" copyright="" heading="0" title="7 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-8.84" tilt="2.85"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802481" customnodeid="" datetime="14/08/25 15:12" tags="Drone|Torre1|Final1-4" latitude="-14.859783" info="" source="" comment="" nodeid="node28" altitude="924.65" copyright="" heading="0" title="8 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-8.84" tilt="2.85"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802483" customnodeid="" datetime="14/08/25 15:13" tags="Drone|Final1-4|Torre1" latitude="-14.859782" info="" source="" comment="" nodeid="node29" altitude="927.95" copyright="" heading="0" title="Prédio" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-3.27" tilt="5.61"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802264" customnodeid="" datetime="14/08/25 15:14" tags="Drone|Torre2|Final14-17" latitude="-14.859843" info="" source="" comment="" nodeid="node30" altitude="927.95" copyright="" heading="0" title="9 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-3.27" tilt="5.61"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802264" customnodeid="" datetime="14/08/25 15:15" tags="Drone|Torre2|Final14-17" latitude="-14.859846" info="" source="" comment="" nodeid="node31" altitude="924.35" copyright="" heading="0" title="8 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-3.27" tilt="5.61"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802265" customnodeid="" datetime="14/08/25 15:16" tags="Drone|Torre2|Final14-17" latitude="-14.859846" info="" source="" comment="" nodeid="node32" altitude="921.75" copyright="" heading="0" title="7 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-3.27" tilt="5.61"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802265" customnodeid="" datetime="14/08/25 15:17" tags="Drone|Torre2|Final14-17" latitude="-14.859848" info="" source="" comment="" nodeid="node33" altitude="918.55" copyright="" heading="0" title="6 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-3.27" tilt="5.61"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802264" customnodeid="" datetime="14/08/25 15:19" tags="Drone|Torre2|Final14-17" latitude="-14.859846" info="" source="" comment="" nodeid="node34" altitude="915.25" copyright="" heading="0" title="5 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-3.27" tilt="5.61"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802263" customnodeid="" datetime="14/08/25 15:20" tags="Drone|Torre2|Final14-17" latitude="-14.859843" info="" source="" comment="" nodeid="node35" altitude="912.75" copyright="" heading="0" title="4 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-3.27" tilt="5.61"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802265" customnodeid="" datetime="14/08/25 15:21" tags="Drone|Torre2|Final14-17" latitude="-14.859844" info="" source="" comment="" nodeid="node36" altitude="909.75" copyright="" heading="0" title="3 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="-3.27" tilt="5.61"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="-110" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="110" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802266" customnodeid="" datetime="14/08/25 15:22" tags="Drone|Torre2|Final14-17" latitude="-14.859844" info="" source="" comment="" nodeid="node37" altitude="906.75" copyright="" heading="0" title="2 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="88.56" pan="168.45" tilt="2.93"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802481" customnodeid="" datetime="14/08/25 15:05" tags="Drone|Torre1|Final5-8" latitude="-14.859787" info="" source="" comment="" nodeid="node38" altitude="906.45" copyright="" heading="0" title="2.1 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node39">
+    <input leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="88.56" pan="168.45" tilt="2.93"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802479" customnodeid="" datetime="14/08/25 15:06" tags="Drone|Torre1|Final5-8" latitude="-14.859792" info="" source="" comment="" nodeid="node39" altitude="909.45" copyright="" heading="0" title="3.1 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node40">
+    <input leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="88.56" pan="168.45" tilt="2.93"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802482" customnodeid="" datetime="14/08/25 15:07" tags="Drone|Torre1|Final5-8" latitude="-14.859791" info="" source="" comment="" nodeid="node40" altitude="912.45" copyright="" heading="0" title="4.1 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="88.56" pan="168.45" tilt="2.93"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802485" customnodeid="" datetime="14/08/25 15:08" tags="Drone|Torre1|Final5-8" latitude="-14.859789" info="" source="" comment="" nodeid="node41" altitude="915.15" copyright="" heading="0" title="5.1 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node42">
+    <input leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="88.56" pan="168.45" tilt="2.93"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802483" customnodeid="" datetime="14/08/25 15:10" tags="Drone|Torre1|Final5-8" latitude="-14.859789" info="" source="" comment="" nodeid="node42" altitude="917.75" copyright="" heading="0" title="6.1 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="88.56" pan="168.45" tilt="2.93"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802480" customnodeid="" datetime="14/08/25 15:11" tags="Drone|Torre1|Final5-8" latitude="-14.859785" info="" source="" comment="" nodeid="node43" altitude="920.95" copyright="" heading="0" title="7.1 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node44">
+    <input leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="88.56" pan="168.45" tilt="2.93"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802481" customnodeid="" datetime="14/08/25 15:12" tags="Drone|Torre1|Final5-8" latitude="-14.859783" info="" source="" comment="" nodeid="node44" altitude="924.65" copyright="" heading="0" title="8.1 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node45">
+    <input leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="88.56" pan="168.45" tilt="2.93"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802483" customnodeid="" datetime="14/08/25 15:13" tags="Drone|Torre1|Final5-8" latitude="-14.859782" info="" source="" comment="" nodeid="node45" altitude="927.95" copyright="" heading="0" title="9.1 TA" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node46">
+    <input leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="172.33" tilt="1.11"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802264" customnodeid="" datetime="14/08/25 15:14" tags="Drone|Torre2|Final9-13" latitude="-14.859843" info="" source="" comment="" nodeid="node46" altitude="927.95" copyright="" heading="0" title="9.1 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node47">
+    <input leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="172.33" tilt="1.11"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802264" customnodeid="" datetime="14/08/25 15:15" tags="Drone|Torre2|Final9-13" latitude="-14.859846" info="" source="" comment="" nodeid="node47" altitude="924.35" copyright="" heading="0" title="8.1 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node48">
+    <input leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="172.33" tilt="1.11"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802265" customnodeid="" datetime="14/08/25 15:16" tags="Drone|Torre2|Final9-13" latitude="-14.859846" info="" source="" comment="" nodeid="node48" altitude="921.75" copyright="" heading="0" title="7.1 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node49">
+    <input leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="172.33" tilt="1.11"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802265" customnodeid="" datetime="14/08/25 15:17" tags="Drone|Torre2|Final9-13" latitude="-14.859848" info="" source="" comment="" nodeid="node49" altitude="918.55" copyright="" heading="0" title="6.1 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node50">
+    <input leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="172.33" tilt="1.11"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802264" customnodeid="" datetime="14/08/25 15:19" tags="Drone|Torre2|Final9-13" latitude="-14.859846" info="" source="" comment="" nodeid="node50" altitude="915.25" copyright="" heading="0" title="5.1 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node51">
+    <input leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="172.33" tilt="1.11"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802263" customnodeid="" datetime="14/08/25 15:20" tags="Drone|Torre2|Final9-13" latitude="-14.859843" info="" source="" comment="" nodeid="node51" altitude="912.75" copyright="" heading="0" title="4.1 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node52">
+    <input leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="172.33" tilt="1.11"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802265" customnodeid="" datetime="14/08/25 15:21" tags="Drone|Torre2|Final9-13" latitude="-14.859844" info="" source="" comment="" nodeid="node52" altitude="909.75" copyright="" heading="0" title="3.1 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node53">
+    <input leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.webp" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" overlap="1" width="2048" height="2048" levelingroll="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" fov="100" pan="172.33" tilt="1.11"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="75" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="280" fovstereographic="330" scaletofit="1" tilt="50"/>
+    </view>
+    <userdata description="" longitude="-40.802266" customnodeid="" datetime="14/08/25 15:22" tags="Drone|Torre2|Final9-13" latitude="-14.859844" info="" source="" comment="" nodeid="node53" altitude="906.75" copyright="" heading="0" title="2.1 TB" author=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label background="1" enabled="1" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" height="20" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomafteroutfov="40" blendtime="0.80000000000000004" zoomfov="40" zoomin="0" blendcolor="0x000000" softedge="0" zoomafterinfov="140" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" speed="-0.100" enabled="1" nodefilter="" noderandom="1" returntohorizon="0.000" horizonfromdefview="0" startloaded="0" useanimation="0" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" simulatemass="1" dblclickfullscreen="1" contextprojections="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" invertwheel="0" hideabout="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" rubberband="0" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" tags="" copyright="" title="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
